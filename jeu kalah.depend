@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1575853484 source:c:\users\lenovo\desktop\fichier projet c\jeu kalah\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575849884 source:d:\dossier ensias\drive 1a ensias\fichier projet c\jeu kalah\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580240305 source:d:\dossier ensias\drive 1a ensias\les projets\projet c jeu kalah\jeu kalah\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1579019366 d:\dossier ensias\drive 1a ensias\les projets\projet c jeu kalah\jeu kalah\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1580240305 source:d:\dossier ensias\drive 1a ensias\les projets\projet c jeu kalah\jeu kalah\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fonction.h"
+
+1578948876 d:\dossier ensias\drive 1a ensias\les projets\projet c jeu kalah\jeu kalah\headers.h
+
+1580240305 d:\dossier ensias\drive 1a ensias\les projets\projet c jeu kalah\jeu kalah\fonction.h
+
+1580083874 source:d:\dossier ensias\drive 1a ensias\les projets\projet c jeu kalah\jeu kalah\affichage.c
+	<stdio.h>
+	<stdlib.h>
+
