@@ -1,1 +1,1 @@
-# jeu_kalah
+# Programmation de jeu KALAH en langage C
