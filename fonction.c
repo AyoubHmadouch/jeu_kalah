@@ -37,8 +37,8 @@ void howPlay()
     printf("4-Choisissez une case valide de votre plateau.\n");
     printf("5-Jouez dans le sens inverse des aiguilles d une montre.\n");
     printf("6-Les joueurs peuvent mettre des pierres dans leur propre Mancala, mais pas dans le Mancala de leur adversaire.\n");
-    printf("7-Si votre dernière pierre tombe dans votre Mancala, rejouez un tour.\n");
-    printf("8-Si la derniere pierre que vous déposez se retrouve dans un creux vide de votre cote, gagnez cette pierre ainsi que celles du creux adverse place en face de celui-ci.\n");
+    printf("7-Si votre derniÃ¨re pierre tombe dans votre Mancala, rejouez un tour.\n");
+    printf("8-Si la derniere pierre que vous dÃ©posez se retrouve dans un creux vide de votre cote, gagnez cette pierre ainsi que celles du creux adverse place en face de celui-ci.\n");
     printf("9-Quand les six receptacles d un joueur sont completement vides, le jeu se termine.\n");
     printf("________________________________________________________________________________________\n");
 }
@@ -419,7 +419,7 @@ void turnGame(table *t,int state)//state=0 si on veut commemncer une nouvelle pa
 
 
 //----------------------------------------------------------------------------------------
-//les fonctions qui faire la gestion des sauvegardes et des restaurations du jeu:
+//les fonctions qui font la gestion des sauvegardes et des restaurations du jeu:
 
 //sauvgarder le jeu:
 void saveGame(table *t)
