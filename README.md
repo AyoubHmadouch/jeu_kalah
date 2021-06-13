@@ -3,7 +3,8 @@
 
 
 <p align="center">
-  <img src="screens/jeu.png" alt="drawing" width="400" align="center"/>
+  <img src="screens/jeu.png" alt="drawing" width="800px" height="277px" style="border-radius: 30px;"/>
+  
 </p>
 
 
