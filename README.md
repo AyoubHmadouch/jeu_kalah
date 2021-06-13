@@ -1,5 +1,10 @@
 # **Jeu KALAH en langage C**
-![](screens/jeu.png)
+
+
+
+<p align="center">
+  <img src="screens/jeu.png" alt="drawing" width="400" align="center"/>
+</p>
 
 
 ### **Objectif du projet :**
